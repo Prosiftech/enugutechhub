@@ -1,0 +1,52 @@
+body{
+    width: 100%;
+    margin: opx;
+    padding: 0%;
+    background-image: url('../image/nature.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: blueviolet;
+    background-blend-mode: overlay;
+}
+nav{
+   text-decoration: none ;
+}
+h3{
+    position: absolute;
+    top: 30px;
+}
+
+ul{
+    list-style-type: none;
+   display: flex;
+   
+}
+
+li{
+    margin: 20px;
+   
+}
+a{
+text-decoration: none;
+font-size: 1.2em;
+color: cornsilk;
+
+}
+img{
+    width: 50px;
+}
+
+#image1 img{
+    width: 800px;
+    top: 10px;
+    position: absolute;
+
+}
+#image{
+    top: 5px;
+}
+p{
+    position: absolute;
+    top: 100px;
+    align
+}
